@@ -1,0 +1,1 @@
+Today I learnt what Deep Neural Netwroks are, different ways of notations used and forward propagation.
