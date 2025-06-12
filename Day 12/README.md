@@ -1,0 +1,1 @@
+Today, I learnt how to determine dimensions of matrix  parameters(W, B). also how deep NN works    
