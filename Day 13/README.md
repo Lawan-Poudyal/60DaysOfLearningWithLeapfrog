@@ -1,3 +1,3 @@
 ###Day 13 
 
-Today, I understood how forward and back propagation works, and how to implement it.
+I learnt how forward and backward propagation works in Neural Network with multiple hidden layers, and how to implement it.  
