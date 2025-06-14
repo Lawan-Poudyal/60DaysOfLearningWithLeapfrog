@@ -1,0 +1,1 @@
+I studied Differential equations cause i have internal tomorrow.
