@@ -13,4 +13,6 @@
 - linear_backward
 - linear_activation_backward
 #### merged into L_model_backward
+
+### At last Updated Parameters using gradient descent algorithm
  
