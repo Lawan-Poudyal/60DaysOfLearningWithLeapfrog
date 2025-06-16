@@ -1,18 +1,20 @@
 # Day 16
 
-## Implemented Forward and backward propagation, computed cost and updated parameters for L layer NN
+## Implemented Forward and Backward Propagation for L-layer Neural Network
 
-### Forward Prop: 
-#### Built helper functions
-- linear_forward
-- linear_activation_forward
-#### merged into L_model_forward
+### 🔁 Forward Propagation
+**Helper Functions:**
+- `linear_forward`
+- `linear_activation_forward`
 
-### Backward Prop:
-#### Built helper functions
-- linear_backward
-- linear_activation_backward
-#### merged into L_model_backward
+➡️ Integrated into: `L_model_forward`
 
-### At last Updated Parameters using gradient descent algorithm
- 
+### 🔄 Backward Propagation
+**Helper Functions:**
+- `linear_backward`
+- `linear_activation_backward`
+
+⬅️ Integrated into: `L_model_backward`
+
+### 📉 Parameter Updates
+- Applied gradient descent to update weights and biases.
