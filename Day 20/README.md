@@ -2,9 +2,9 @@
 
 ## Things I learnt:
 - Applied ML is highly iterative process
-- Division od data set into Train/dev/test 
+- Division of data set into Train/dev/test 
 - bias and variance
-- basic recipe fo ML
+- basic recipe for ML
  - if high bias => use bigger network
- - if high variance => get more data, regularzation 
+ - if high variance => get more data, regularization  
  - search for other NN architecture  
