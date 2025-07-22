@@ -7,7 +7,7 @@
 
 ## Edge detection
 
-covolute image matrix with filters (matrices) to detect edges
+convolute image matrix with filters (matrices) to detect edges
 
 - vertical edge detection
 - horizontal edge detection 
